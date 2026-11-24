@@ -1,2 +1,20 @@
-# birthday_card
-🎂 生日贺卡 - QQ邮箱风格离线生日贺卡（生日歌+动画+许愿），by LAIXINQB
+﻿# 🎂 birthday_card
+
+QQ邮箱生日邮件风格的离线生日贺卡（单文件 HTML，零依赖，图片全部内嵌）。
+
+## 在线预览
+https://laixinquan.github.io/birthday_card/
+
+## 定制祝福对象的名字
+在链接后加 `#名字` 或 `?name=名字`：
+- https://laixinquan.github.io/birthday_card/#小明
+- https://laixinquan.github.io/birthday_card/?name=小明
+
+## 功能
+- 层叠式 CSS 生日蛋糕 + 四层花瓣火焰，点击蜡烛可吹灭
+- Web Audio 合成生日歌（主旋律 + 高低八度和声）
+- 彩带雨、气球放飞、流星与烛光粒子（canvas）
+- 许愿孔明灯、开花动画、鼠标星尘拖尾
+- 移动端适配
+
+— QB Mail · by LAIXINQB —
