@@ -1,6 +1,6 @@
-﻿# 🎂 birthday_card
+# 🎂 birthday_card
 
-QQ邮箱生日邮件风格的离线生日贺卡（单文件 HTML，零依赖，图片全部内嵌）。
+QQ邮箱生日邮件风格的离线生日贺卡（零依赖贺卡（HTML + CSS + JS 三文件），图片全部内嵌，支持暗黑模式（跟随系统））。
 
 ## 在线预览
 https://laixinquan.github.io/birthday_card/
